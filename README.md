@@ -1,2 +1,2 @@
 # bi-map
-Bidirectional Map for TypeScript
+Simple bidirectional map for TypeScript.
