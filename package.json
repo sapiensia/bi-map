@@ -1,0 +1,8 @@
+{
+  "name": "@sapiensia/bi-map",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
